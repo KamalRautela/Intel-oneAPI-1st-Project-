@@ -2,7 +2,7 @@ The objective of the study is to analyze the flight booking dataset obtained fro
 
 The “Random Forest Regressor” algorithm would be used to train the dataset and predict a continuous target variable.Also Intel oneDAL(one Data Analytics) Library has been used in the project by using the command !pip install scikit-learn-intelex.
 
-Business Model
+Business Model:
 There are various factors that determine the price of a flight. More and more features or attributes and variables can be added in the model in the future to gain more useful insights.
 An application can be created to enable hassle free planning of travel.
 In order to scale, along with the booking of flight tickets different segments like booking of bus, train and other modes of travel can be added.
