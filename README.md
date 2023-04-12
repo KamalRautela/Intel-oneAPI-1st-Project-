@@ -1,4 +1,4 @@
-The objective of the study is to analyze the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in  order to get meaningful insights from it. Ease My Trip is an internet platform for booking flight tickets. Study of the data will lead to the discovery of valuable insights like there are different factors that affect the price of a flight, which would reduce the travel cost for the customer.
+The objective of the study is to analyze the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in  order to get meaningful insights from it. Ease My Trip is an internet platform for booking flight tickets. Study of the data will lead to the discovery of valuable insights like there are different factors that affect the price of a flight, which would reduce the travel cost for the customers.
 
 The “Random Forest Regressor” algorithm would be used to train the dataset and predict a continuous target variable.Also Intel oneDAL(one Data Analytics) Library has been used in the project by using the command !pip install scikit-learn-intelex.
 
